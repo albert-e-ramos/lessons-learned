@@ -20,3 +20,5 @@ Actually, there is more Git and GitHub to learn before tackling the JS material.
 I will finish up the Git and GitHub material on CodeSchool along with the Bloc quiz by Friday morning.
 
 I will start the JS material on Sunday.
+
+Whiz! Bang!
